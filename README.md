@@ -31,8 +31,6 @@ git clone https://github.com/ayshasanyang/Day-11-toggleable-FAQ-section.git
 4. Open the `index.html` file in your web browser.
 
 ---
-## 📸 Screenshots
-![Quiz App Preview](img/quiziapp.png)
 
 ## 📸 Preview
 ![FAQ Toggle Preview](img/faq-toggle.png)
